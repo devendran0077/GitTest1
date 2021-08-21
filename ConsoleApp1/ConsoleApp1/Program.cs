@@ -13,5 +13,9 @@ namespace ConsoleApp1
 
             //aDDED THIS COMMENT LINE 1
         }
+        private int Substarct(int a, int b)
+        {
+            return a - b;       
+        }
     }
 }
