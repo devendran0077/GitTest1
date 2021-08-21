@@ -8,9 +8,10 @@ namespace ConsoleApp1
         {
             //Some changes happened 123 123 123 1234
             Console.WriteLine("Hello World!");
+            Console.WriteLine(Add(3, 4));
             Console.ReadLine();
         }
-        private int  Add(int a,int b)
+        private static  int  Add(int a,int b)
         {
             return a + b;
         }
