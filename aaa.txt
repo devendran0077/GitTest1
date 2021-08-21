@@ -5,6 +5,11 @@ Aaa1
 
 
 123
+<<<<<<< HEAD
+This from test3Dev
+9630
+=======
 Added this content 1
 1234
 
+>>>>>>> test1branch
