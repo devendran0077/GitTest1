@@ -11,7 +11,8 @@ namespace ConsoleApp1
             Console.WriteLine(Add(3, 4));
  Console.WriteLine(Add(30, 40));
             Console.WriteLine(Multiply(3, 4));
-            
+            Console.WriteLine(Multiply(30, 40));
+
 
             Console.ReadLine();
         }
