@@ -10,7 +10,7 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World!");
             Console.WriteLine(Add(3, 4));
 
-            Console.WriteLine(Substarct(3, 4));
+            //Console.WriteLine(Substarct(3, 4));
             Console.WriteLine(Devide(3, 4));
 
  Console.WriteLine(Add(30, 40));
