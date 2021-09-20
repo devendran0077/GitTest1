@@ -6,5 +6,8 @@ namespace ConsoleApp1.test1
 {
     class someclass2
     {
+
+
+        //coo
     }
 }
