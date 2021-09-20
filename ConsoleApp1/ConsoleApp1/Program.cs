@@ -8,10 +8,19 @@ namespace ConsoleApp1
         {
             //Some changes happened 123 123 123 1234
             Console.WriteLine("Hello World!");
-            Console.ReadLine();
-  //I added further comment
+            Console.WriteLine(Add(3, 4));
+ Console.WriteLine(Add(30, 40));
+  Console.WriteLine(Substarct(3, 4));
 
-            //aDDED THIS COMMENT LINE 1
+            Console.ReadLine();
+        }
+        private static  int  Add(int a,int b)
+        {
+            return a + b;
+        }
+        private static int Substarct(int a, int b)
+        {
+            return a - b;       
         }
     }
 }
