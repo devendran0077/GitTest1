@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sylaj\\OneDrive\\Documents\\MyProj\\GitPlay2\\GitTest1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\sylaj\\OneDrive\\Documents\\MyProj2\\GitPlay2\\GitTest1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sylaj\\OneDrive\\Documents\\MyProj\\GitPlay2\\GitTest1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\sylaj\\OneDrive\\Documents\\MyProj2\\GitPlay2\\GitTest1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sylaj\\OneDrive\\Documents\\MyProj\\GitPlay2\\GitTest1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\sylaj\\OneDrive\\Documents\\MyProj2\\GitPlay2\\GitTest1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\sylaj\\OneDrive\\Documents\\MyProj\\GitPlay2\\GitTest1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\sylaj\\OneDrive\\Documents\\MyProj2\\GitPlay2\\GitTest1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\sylaj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sylaj\\OneDrive\\Documents\\MyProj\\GitPlay2\\GitTest1\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\sylaj\\OneDrive\\Documents\\MyProj2\\GitPlay2\\GitTest1\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
