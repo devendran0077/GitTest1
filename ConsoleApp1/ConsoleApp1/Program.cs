@@ -9,8 +9,8 @@ namespace ConsoleApp1
             //Some changes happened 123 123 123 1234
             Console.WriteLine("Hello World!");
             Console.WriteLine(Add(3, 4));
- Console.WriteLine(Add(30, 40));
-  Console.WriteLine(Substarct(3, 4));
+        Console.WriteLine(Add(30, 40));
+        Console.WriteLine(Substarct(3, 4));
 
             Console.ReadLine();
         }
